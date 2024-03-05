@@ -8,7 +8,6 @@ public class PetstoreappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PetstoreappApplication.class, args);
-	
-		System.out.println("Testing git");
 	}
+
 }
